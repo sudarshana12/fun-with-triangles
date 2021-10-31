@@ -1,7 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Irish+Grover&family=Montserrat:wght@600&family=Zen+Antique+Soft&display=swap');
+:root{
+    --primary-color: #023e8a ;
+    --blue: #ade8f4;
+
+}
 body{
     text-align: center;
+    background-color: var(--blue);
+    font-family: 'Irish Grover', cursive;
+}
+.heading{
+    padding:1rem;
+    padding-top: 2rem;
+    background-color: var(--primary-color);
+    color : var(--blue);
+    text-align: left;
 }
 label{
     display: block;
     padding: 1rem;
+    color: var(--primary-color);
+}
+.heading .navigation-container{
+    color: var(--primary-color);
+    text-align: right;
+
 }
