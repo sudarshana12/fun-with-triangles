@@ -21,8 +21,21 @@ label{
     padding: 1rem;
     color: var(--primary-color);
 }
-.heading .navigation-container{
-    color: var(--primary-color);
+.navigation-container{
     text-align: right;
+}
+.nav-link{
+    color: var(--blue);
+    text-decoration: none;
+}
+
+
+.social-links{
+    background-color: var(--primary-color);
+    padding: 2rem;
+
+}
+.link{
+    color: var(--blue);
 
 }
