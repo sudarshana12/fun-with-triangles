@@ -5,6 +5,8 @@
 
 }
 body{
+    margin: 0px;
+    padding: 0px;
     text-align: center;
     background-color: var(--blue);
     font-family: 'Irish Grover', cursive;
@@ -30,12 +32,20 @@ label{
 }
 
 
-.social-links{
-    background-color: var(--primary-color);
-    padding: 2rem;
-
-}
 .link{
     color: var(--blue);
+    text-decoration: none;
+}
+.footer{
+    background-color: var(--primary-color);
+    color: var(--blue);
+    padding: 1rem 1rem;
+    text-align: left;
+}
 
+.container{
+    min-height: 80vh;
+}
+.footer-header{
+    text-align: left;
 }
