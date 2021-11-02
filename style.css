@@ -49,3 +49,23 @@ label{
 .footer-header{
     text-align: left;
 }
+#calculate-btn{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#submit-answer-btn{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#hypotenuse-btn{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+#is-triangle-btn{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
