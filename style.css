@@ -29,12 +29,14 @@ label{
 .nav-link{
     color: var(--blue);
     text-decoration: none;
+    padding: 1rem;
 }
 
 
 .link{
     color: var(--blue);
     text-decoration: none;
+    padding: 0.5rem;
 }
 .footer{
     background-color: var(--primary-color);
